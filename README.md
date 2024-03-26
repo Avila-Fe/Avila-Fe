@@ -1,4 +1,4 @@
-### Olá, eu sou o Felipe Avila!
+### Hello, I am Felipe Avila!
 
 <a href="https://github.com/Avila-Fe/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Avila-Fe&theme=gruvbox" />
