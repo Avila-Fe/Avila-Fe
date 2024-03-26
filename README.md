@@ -8,7 +8,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Avila-Fe&layout=compact&langs_count=8&card_width=320&theme=gruvbox" />
 </a>
 
-### Tecnologias que utilizo:
+### Technologies:
 <div style="display: inline_block"><br/>
   <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
